@@ -1,0 +1,227 @@
+$color-titulo: rgb(209, 139, 213);
+
+h1 {
+    color: $color-titulo;
+}
+.gradient-text {
+    color: aquamarine;
+    text-align: center;
+}
+.header {
+    padding-left: 200px;
+    text-align: center;
+    background: rgb(175, 173, 173);
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    font-family: 'Playfair Display', serif;
+    display: flex;
+  }
+  .header__titulo {
+    font-size: 40px;
+    
+  }
+ .imagen__uno {
+   float: right;
+ }
+ .imagen__dos{
+   float: left;
+ }
+ .imagen__cuatro{
+   float: right;
+
+ }
+ nav a {
+  text-decoration:none;
+  color:inherit;
+  font: size 11px;
+  font-family: 'Times New Roman', Times, serif;
+ }
+ nav li{
+  display:inline-block;
+  width:15xp;
+  padding:5px 10px;
+  background-color:rgba(0, 0, 0, 0);
+  border:1px solid #000;
+  text-align:center;
+  color:#fff;
+  }
+  nav li:hover{
+  background-color:#fff;
+  color:#000;
+  }
+  .button__uno{
+    background-color: #ffffff; 
+    color: rgb(250, 241, 241);
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 2px;
+    
+  }
+  .mi-marca {
+    background-color: rgb(237, 209, 188);
+    width: 50%;
+    margin: 20px auto;
+    background-color: rgba(238, 226, 207, 0);
+    color: rgb(0, 0, 0);
+    padding: 15px;
+  
+  }
+  .img__alineada {
+      float: left;
+      margin-right: 15px;
+    }
+    .mi__blog {
+      text-align: justify;
+      background-color: rgb(29, 58, 38);
+      color: rgb(0, 0, 0);
+      font-size: 20px;
+    }
+      .titulo__mi-blog {
+        text-align: center;
+        font-size: 30px;
+      }
+      .instagram-media {
+        text-align: center;
+        
+      }
+.galeria {
+  text-align: center;
+  background-color: rgb(225, 216, 214);
+  
+}  
+.button__galeria {
+  text-align: center;
+}
+.newsletter {
+text-align: center;
+background-color: rgb(238, 223, 221);
+}
+.footer {
+  color: #000;
+  background-color: rgb(69, 102, 67);
+  text-align: justify;
+}
+.nav__footer {  
+  text-align: center;
+}
+.footer__title2 {
+  text-align: center;
+}
+#header__sobremi {
+  background-color: rgb(169, 131, 169);
+  text-align: center;
+}
+.menu__navegador__sobremi {
+    text-decoration:none;
+    color:inherit;
+    font: size 11px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #000;
+    text-align: center;
+   }
+  .container__sobremi {
+    background-color: rgb(85, 110, 88);
+    width: 50%;
+    margin: 20px auto;
+    background-color: rgba(238, 226, 207, 0);
+    color: rgb(0, 0, 0);
+    padding: 15px;
+  }
+  .imagen__sobremi {
+      float: left;
+      margin-right: 15px;
+  }
+  .footer__sobremi {
+    color: #000;
+    background-color: rgb(69, 102, 67);
+    text-align: justify;
+  }
+  .nav__footer__sobremi {  
+    text-align: center;
+  }
+  .footer__title3__sobremi {
+    text-align: center ;
+  }
+  #header__galeria {
+    background-color: rgb(169, 131, 169);
+    text-align: center;
+  }
+  .menu__navegador__galeria {
+      text-decoration:none;
+      color:inherit;
+      font: size 11px;
+      font-family: 'Times New Roman', Times, serif;
+      color: #000;
+      text-align: center;
+  }
+
+  .container__galeria {
+    background-color: beige;
+  }
+  .title__galeria {
+    text-align: center;
+  }
+  .imagenes__galeria {
+    padding: 0px 200px 0px 200px;
+  }
+  #footer__galeria {
+    color: #000;
+    background-color: rgb(69, 102, 67);
+    text-align: justify;
+  }
+  .nav__menu__galeria {  
+    text-align: center;
+  }
+  .title__galeria {
+    text-align: center ;
+  }
+  .p__galeria__footer {
+    padding: 0px 200px 0px 200px;
+  }
+  .footer__title3_galeria {
+    text-align: center;
+  }
+  .header__contacto {
+    background-color: rgb(169, 131, 169);
+    text-align: center;
+  }
+  .menu__navegador__galeria {
+      text-decoration:none;
+      color:inherit;
+      font: size 11px;
+      font-family: 'Times New Roman', Times, serif;
+      color: #000;
+      text-align: center;
+  }
+  .titulo__contacto__seccion {
+    text-align: center;
+    font-size: 20px;
+  }
+  .formulario {
+    background-color: rgb(224, 197, 233);
+    border: 1px solid #000;
+    width: fit-content;
+    padding: 20px 20px 20px 20px;
+    margin-left: 500px;
+  }
+  #footer__contacto {
+    color: #000;
+    background-color: rgb(69, 102, 67);
+    text-align: justify;
+  }
+  .nav__menu__contacto {  
+    text-align: center;
+  }
+  .footer__title__contacto {
+    text-align: center ;
+  }
+  .p__contacto__footer {
+    padding: 0px 200px 0px 200px;
+  }
+  .footer__title3_conctacto {
+    text-align: center;
+  }
+  
